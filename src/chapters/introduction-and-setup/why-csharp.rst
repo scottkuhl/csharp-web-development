@@ -3,8 +3,8 @@ Why Learn C#?
 
 .. index:: ! C#, csharp
 
-This course is an introduction to **C#** and the .NET framework. C# is a
-programming language developed by Microsoft and used in almost all of its products. 
+This course is an introduction to **C#** and the .NET platform. C# is a
+programming language developed by Microsoft and used in many of its products. 
 This course is designed for learners who are already familiar with at least one
 programming language. Thus, we'll move quickly through the syntax rules and
 procedural basics of the language (ie, how does one write a ``for`` loop in C#? a 
@@ -19,7 +19,7 @@ it's wise to start learning new ones early on in your career.
 
 Beyond the basics of programming in C#, you'll learn some key *object oriented*
 concepts to enhance the capabilities of your programs. You'll also download a 
-program called **Visual Studio IDE** to get familiar with the tools of the C# developer.
-In the final lessons of this course, you will use a C# framework called **.NET Core MVC**.
+program called **Visual Studio** to get familiar with the tools of the C# developer.
+In the final lessons of this course, you will use a C# framework called **ASP.NET MVC**.
 This framework gives us the scaffolding necessary to create *MVC* programs (another
 concept we'll cover) effectively and efficiently.
